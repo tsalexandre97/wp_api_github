@@ -1,0 +1,38 @@
+#repositories_search {
+    width: 100%;
+}
+
+.repository-list {
+    max-width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.repository-list .container {
+    margin: 5px;
+    padding: 20px 10px;
+    font-size: 1.5em;
+    flex: 1;
+    max-width: 280px;
+    min-width: 280px;
+}
+
+.repository-list .container img {
+    width: 100%;
+}
+
+.repository-list .container p {
+    font-size: 25px;
+    line-height: 30px;
+    margin: 10px 0px;
+}
+
+.repository-list .container .button {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
