@@ -4,7 +4,7 @@ Busque repositórios e perfils do GitHub com Wordpress.
 
 > **Nota:** Este guia assume que você tenha criado um Custom Page Template na pasta raiz do seu tema. Adicione a seguinte linha a um arquivo (receive.php)  na raiz do seu tema...
 ```PHP
-<!--?php /* Template name: Receive */ ?-->
+<?php /* Template Name: My Custom Template */ ?>
 ```
 
 Os arquivos necessários são...
