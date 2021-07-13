@@ -16,3 +16,9 @@ Os arquivos necessários são...
 1. ./template-parts/repositories/assets/css/main.css
 1. ./template-parts/repositories/assets/js/main.css
 
+## Results
+### Input search
+![Repositories Search](https://i.ibb.co/Xxmd64f/WP-API-Git-Hub-Repositories-Search.png)
+### Complete list user reposiries
+![Repositories Search](https://i.ibb.co/k2bz6s2/complete-list-user-repositories.png)
+
