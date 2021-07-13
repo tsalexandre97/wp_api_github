@@ -1,6 +1,6 @@
 ### WP API GitHub
 
-Busque repositórios e perfils do GitHub com Wordpress.
+Busque repositórios e perfis do GitHub com Wordpress.
 
 > **Nota:** Este guia assume que você tenha criado um Custom Page Template na pasta raiz do seu tema. Adicione a seguinte linha a um arquivo (receive.php)  na raiz do seu tema...
 ```PHP
