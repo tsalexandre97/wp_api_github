@@ -19,6 +19,6 @@ Os arquivos necessários são...
 ## Results
 ### Input search
 ![Repositories Search](https://i.ibb.co/Xxmd64f/WP-API-Git-Hub-Repositories-Search.png)
-### Complete list user reposiries
+### Complete list user repositories
 ![Repositories Search](https://i.ibb.co/k2bz6s2/complete-list-user-repositories.png)
 
